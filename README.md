@@ -1,7 +1,9 @@
 # Meteora
 
 Meteora é um projeto Fullstack de e-commerce desenvolvido como parte do curso de Desenvolvimento Fullstack. 
-O objetivo do projeto é criar uma plataforma de comércio eletrônico onde usuários podem navegar, selecionar produtos e realizar compras online.
+O objetivo do projeto é criar uma plataforma de comércio eletrônico onde usuários podem navegar, selecionar produtos e realizar compras online. 
+
+Este projeto foi criado utilizando **Bootstrap** para facilitar o desenvolvimento de um design responsivo e moderno na interface do usuário.
 
 ## Tecnologias Utilizadas
 
